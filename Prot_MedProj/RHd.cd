@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prot_MedProj.Properties.Resources" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABAAAAAABEAAAAQAAAAEAAAAAAAACCIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Admin" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACgICACAACAQAABAAAAAQBAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Appointment" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wBBAAAAoCAAAZQAJQqCBEgCiAQAAEAAASZJAAAAABA=</HashCode>
+      <FileName>Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Fmenu" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VyQgAAAAASAAABAAAACAAMAiAAAAIAAgAAAASIIAARA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Doctor" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAABAAIICgIAACAEAAAAAQIAABAABAgAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Front_Desk" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAACAAABAAICCAIAACAAAAAACQMAABAQBAgAA=</HashCode>
+      <FileName>Front-Desk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.MedHistory" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAABBAAAGAAAJQgAQCFAEBCAAAQIAAAACYAAAAAADA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Fmedinv" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OgAAAsAQADAAABQAAhDCFACGjAQAAAAAQCYEAAAAAAA=</HashCode>
+      <FileName>Medinventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Patientdatabase" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAABJBACACCBQAAACDBAkCiAQAAAABECZAAASBAHA=</HashCode>
+      <FileName>Patientdatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.PatRegis" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zkAAAAAAKADAJQgAQqKFEEGiKVAoAGAGmbEBAgABDA=</HashCode>
+      <FileName>PatRegis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Program" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Fregis" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zEAAhAAAOEAAJUgAAiiEEEOkCQQoAAAQuREBAgABDA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.Signin" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACQAAACAACBAAAACAAAACAAAAAgAAAEAAAABIAAA=</HashCode>
+      <FileName>Signin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prot_MedProj.UserManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAABQEAACCBAAKAQyAAAAAkCYAAAAIIIA=</HashCode>
+      <FileName>UserManagement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.179" Collapsed="true" />
+  </Class>
+  <Interface Name="Prot_MedProj.IUserManagement" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>UserManagement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
